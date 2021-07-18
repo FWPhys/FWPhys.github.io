@@ -1,2 +1,2 @@
 # FWPhys.github.io
-[FWPhys](fwphys.com) but more cool.
+[FWPhys](https://fwphys.com) but more cool.
